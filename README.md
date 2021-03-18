@@ -1,11 +1,11 @@
 # MoveitClone
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'am, Sávio Santos</h1>
 <h3 align="center">I'am a web and mobile developer.</h3>
-<p align="left"> <img src="https://github.com/SavioHub" alt="Savio Santos" /> </p>
 
-- 💻 Study language **JavaScript, HTML, CSS**
+- 💻 Study language: **JavaScript, HTML, CSS**
 
-- 📫 How to reach me **saviosantossilva19@gmail.com**
+- 📫 How to reach me: **saviosantossilva19@gmail.com**
+- 📞 WhatsApp: https://api.whatsapp.com/send?phone=5538998929954&text=Ol%C3%A1%2C%20venho%20pelo%20GitHub
 
 
 <p align="left">
@@ -18,19 +18,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/savio-santos-147b0018a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="savio" height="20" width="20" /></a>
-<a href="https://www.instagram.com/savio_santos_19/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="savio" height="20" width="20" /></a>
+<a href="https://www.instagram.com/savio_santos_19/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg style="color:red" alt="savio" height="20" width="20" /></a>
 </p>
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
