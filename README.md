@@ -15,7 +15,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
 </div>
 
-<p>
+<p align="center">
 <a href="https://www.linkedin.com/in/savio-santos-147b0018a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="savio" height="20" width="20" /></a>
 <a href="https://instagram.com/stories/savio_santos_19/2531469881082485691?igshid=1j5ek4minbjgw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="savio" height="20" width="20" /></a>
 </p>
