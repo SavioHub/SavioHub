@@ -17,9 +17,5 @@
 
 <p>
 <a href="https://www.linkedin.com/in/savio-santos-147b0018a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-       icons@3.0.1/icons/linkedin.svg" alt="savio" height="20" width="20" /></a>
-<a href="https://www.instagram.com/savio_santos_19/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="savio" height="20" width="20" /></a>
+<a href="https://instagram.com/stories/savio_santos_19/2531469881082485691?igshid=1j5ek4minbjgw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="savio" height="20" width="20" /></a>
 </p>
-
-p{
-background-color: red;
-}
