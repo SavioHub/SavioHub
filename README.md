@@ -4,6 +4,9 @@
 
 - 💻 Study language: **JavaScript, HTML e CSS**
 
+<img align="right" height="220px" alt="Coding" src="https://i.imgur.com/wdafOKW.png" />
+
+
 <div align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="22" height="22"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="22" height="22"/>
