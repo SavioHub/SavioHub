@@ -2,7 +2,7 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'am, Sávio Santos</h1>
 <h3 align="center">I'am a developer front-end.</h3>
 
-- 💻 Study language: **JavaScript, HTML, CSS**
+- 💻 Study language: **JavaScript, HTML e CSS**
 
 <div align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="22" height="22"/>
